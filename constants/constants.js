@@ -1,6 +1,6 @@
 export const NAME = 'Jovan Popovic';
 
-export const DESIGNATION = `Blockchain | Full Stack Web3 Developer`;
+export const DESIGNATION = `Full Stack Blockchain & AI`;
 
 export const DETAILS = {
   Residence: 'Poland ',
@@ -11,23 +11,23 @@ export const DETAILS = {
 export const SKILLS = [
   {
     title: 'Web3 Developer',
-    level: '75%',
+    level: '95%',
   },
   {
     title: 'Next Developer',
-    level: '91%',
+    level: '98%',
   },
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '90%',
   },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '80%',
   },
   {
     title: 'Technical Blogger',
-    level: '83%',
+    level: '90%',
   },
 ];
 
@@ -35,6 +35,9 @@ export const TECH_STACK = [
   'JavaScript',
   'ReactJS',
   'NextJS',
+  'PHP',
+  'WordPress',
+  'Shopify',
   'TypeScript',
   'NodeJS',
   'Solidity',
@@ -47,6 +50,8 @@ export const TECH_STACK = [
   'Redux',
   'Zustand',
   'Prisma',
+  'AWS',
+  'GCP',
   'CSS',
   'SCSS',
   'TailwindCSS',
@@ -59,11 +64,13 @@ export const TECH_STACK = [
   'Git',
   'GitHub',
   'Jira',
+  'Jest',
+  'J2EE'
 ];
 
 export const CONTACTS = {
-  EMAIL: 'svendev718@gmail.com',
-  PHONE: '+13154071997',
+  EMAIL: 'venusdragon718@gmail.com',
+  PHONE: '+48881332019',
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/jupiter950',

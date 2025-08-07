@@ -1,6 +1,96 @@
 const portfolio = [
     {
         id: 0,
+        projectName: "BTSE Exchange",
+        url: "https://www.btse.com/",
+        image: "projects/BTSE.png",
+        projectDetail: "BTSE.com is a cryptocurrency exchange that allows users to buy, sell, and trade various digital assets, including major cryptocurrencies like Bitcoin, Ethereum, and Litecoin.",
+        technologiesUsed: [
+            {
+                tech: "ReactJS"
+            },
+            {
+                tech: ".net"
+            },
+            {
+                tech: "GraphQL"
+            },
+            {
+                tech: "Ant Design"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+        ]
+    },
+    {
+        id: 0,
+        projectName: "Opsec",
+        url: "https://www.opsec.computer/",
+        image: "projects/Opsec.png",
+        projectDetail: "The website likely focuses on the principles and practices of OPSEC, which is the process of protecting critical information and preventing adversaries from gathering intelligence about an organization or individual.",
+        technologiesUsed: [
+            {
+                tech: "Nextjs"
+            },
+            {
+                tech: "Node"
+            },
+            {
+                tech: "Postgres"
+            },
+            {
+                tech: "Shadcn"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+            {
+                tech: "Supabase"
+            },
+            {
+                tech: "Etherjs"
+            },
+            {
+                tech: "Viem"
+            },
+            {
+                tech: "AWS"
+            },
+        ]
+    },
+    {
+        id: 0,
+        projectName: "Trading Bot",
+        url: "https://atlantis.bot/",
+        image: "projects/atlantis-wallet.png",
+        projectDetail: "Built a modern trading bot platform with Next.js frontend, Django REST backend, and PostgreSQL database. Styled the UI using TailwindCSS and Flowbite-React.",
+        technologiesUsed: [
+            {
+                tech: "Nextjs"
+            },
+            {
+                tech: "Python"
+            },
+            {
+                tech: "Postgres"
+            },
+            {
+                tech: "Flowbit-React"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+            {
+                tech: "GCP"
+            },
+            {
+                tech: "Express"
+            },
+        ]
+    },
+    {
+        id: 0,
         projectName: "JMM ERP",
         url: "https://jmmerp.com/",
         image: "projects/erp.png",
